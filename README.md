@@ -91,3 +91,4 @@ Running commands with npm `npm run [command]`
 | :-------------- | :--------------------------------------- |
 | `dev`           | Starts a development instance of the app |
 # ecommerce-website
+# ecommerce-admin
